@@ -24,7 +24,6 @@
 - `CourseSchedule(Kaynak Kodları)/`: Uygulamanın kaynak kodu ve çözüm dosyası
 - `CourseSchedule_DB.sql`: Veritabanı kurulum scripti
 - `CourseScheduleErDiyagramı.png`: ER diyagramı
-- `GPFinalRaporTaslagi.pdf` ve `AirportDB.pdf`: Teslim/analiz dokümanları
 
 ## Kurulum
 
